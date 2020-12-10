@@ -26,6 +26,8 @@ The goal of this analysis is to predict the sales price of houses in the city of
 
 * Cross validation score of each individual model obtained, then stacking is applied according to the scores.
 
+* The results are submitted to Kaggle and obtained a RMSE score of **0.12595**.
+
 ### Files
 * train.csv - Training set
 * test.csv - Test set
